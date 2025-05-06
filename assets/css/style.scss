@@ -1,0 +1,14 @@
+---
+---
+
+@import "jekyll-theme-cayman";
+
+// ヒーローヘッダーの縦幅を調整
+.page-header {
+  padding: 1rem 0;  // ← ここが縦幅
+}
+
+// 文字サイズも少し小さくできる
+.project-name {
+  font-size: 2.2rem;
+}
