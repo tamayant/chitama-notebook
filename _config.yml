@@ -21,7 +21,7 @@
 title: ちーたまノート
 email: tamayan@example.com
 description: ちーとたまやんの菜園と料理と技術の記録✨
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/chitama-notebook" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
